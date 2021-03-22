@@ -24,7 +24,7 @@
 #define LOCALPLAYER_H
 
 #include "player.h"
-#include "walkmatrix.h"
+//#include "walkmatrix.h"
 
 // @bindclass
 class LocalPlayer : public Player

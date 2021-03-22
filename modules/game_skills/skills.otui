@@ -210,31 +210,3 @@ MiniWindow
       SkillNameLabel
         !text: tr('Mana Leech Amount')
       SkillValueLabel
-	
-    SmallSkillButton
-      id: skillId13
-      SkillNameLabel
-        !text: tr('Mining')
-      SkillValueLabel
-	  SkillPercentPanel
-
-    SmallSkillButton
-      id: skillId14
-      SkillNameLabel
-        !text: tr('Crafting')
-      SkillValueLabel
-	  SkillPercentPanel
-
-    SmallSkillButton
-      id: skillId15
-      SkillNameLabel
-        !text: tr('Speeching')
-      SkillValueLabel
-	  SkillPercentPanel
-
-    SmallSkillButton
-      id: skillId16
-      SkillNameLabel
-        !text: tr('Enchanting')
-      SkillValueLabel
-	  SkillPercentPanel
